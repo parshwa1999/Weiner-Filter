@@ -11,5 +11,7 @@ f(x, y) such that the mean square error between the two is
 minimum.
 
 **How to Run**
+
 cc main.c -lm;
+
 ./a.out boat_512_512.raw 512;
